@@ -1,4 +1,6 @@
 # AlumChallenges
+DEPRECIATED: We have moved development to [Alumn Challenges](https://github.com/alum-challenges/alum-challenges)
+
 A web application for and by alumns of Harvard University's CS50 Introduction to Computer Science.
 
 The title is not yet official. We don't need to worry about aesteatics until the MVP is done.
