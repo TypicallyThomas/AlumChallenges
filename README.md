@@ -1,5 +1,5 @@
 # AlumChallenges
-DEPRECIATED: We have moved development to [Alumn Challenges](https://github.com/alum-challenges/alum-challenges)
+DEPRECIATED: We have moved development to [alum-challenges](https://github.com/alum-challenges/alum-challenges)
 
 A web application for and by alumns of Harvard University's CS50 Introduction to Computer Science.
 
